@@ -1,0 +1,14 @@
+{
+    "CPU": 2,
+    "BindIP": "127.0.0.1",
+    "ListenPort": 6000,
+    "RouterIp": "127.0.0.1",
+    "RouterPort": 8000,
+    "ConnectTimeout": 60,
+    "LogPath": "./",
+    "RoomsLimit": 1000,
+    "UsersLimit": 100,
+    "ReadPacketCountMax": 1024,
+    "WritePacketCountMax": 4096,
+    "RoomKeepTime": 300
+}
